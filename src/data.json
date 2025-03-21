@@ -1,0 +1,219 @@
+{
+  "parks": [
+    {
+      "name": "Arches National Park",
+      "id": "arches",
+      "location": "Utah",
+      "description": "Arches National Park is known for its towering arches, and vast wilderness areas. It's a popular destination for hiking, climbing, and nature photography.",
+      "link": "https://www.nps.gov/arch/index.htm",
+      "images": {
+        "Image 1": {
+          "url": "https://www.nps.gov/arch/learn/nature/images/Landscape_Veronica-Verdin.jpg?maxwidth=1300&maxheight=1300&autorotate=false",
+          "caption": "A view of the Arches National Park"
+        },
+        "Image 2": {
+          "url": "https://www.nps.gov/arch/learn/nature/images/park-ave-kait-thomas_7444079_2.jpg?maxwidth=1300&autorotate=false&quality=78&format=webp",
+          "caption": "Geology of Arches National Park"
+        },
+        "Image 3": {
+          "url": "https://www.nps.gov/arch/learn/images/Double-O-arch-in-winter.jpg?maxwidth=650&autorotate=false&quality=78&format=webp",
+          "caption": "Double O Arch in winter"
+        },
+        "Image 4": {
+          "url": "https://www.nps.gov/arch/learn/images/9734074211_279954f880_k.jpg?maxwidth=650&autorotate=false&quality=78&format=webp",
+          "caption": "Canyoneering is one way to experience the wilderness area within Arches."
+        },
+        "Image 5": {
+          "url": "https://www.nps.gov/arch/learn/photosmultimedia/images/_DSC0707.jpg?maxwidth=1300&maxheight=1300&autorotate=false",
+          "caption": "Arches Visitor Center contains a gallery of past Community Artists' work."
+        },
+        "Image 6": {
+          "url": "https://www.nps.gov/arch/learn/photosmultimedia/images/Delicate-Arch.jpg?maxwidth=1300&autorotate=false&quality=78&format=webp",
+          "caption": "Vistors enjoying Arches National Park"
+        }
+      }
+    },
+    {
+      "name": "Grand Canyon National Park",
+      "id": "grandCanyon",
+      "location": "Arizona",
+      "description": "Grand Canyon National Park is known for its breathtaking views of the canyon, and vast wilderness areas. It's a popular destination for hiking, climbing, and nature photography.",
+      "link": "https://www.nps.gov/grca/index.htm",
+      "images": {
+        "Image 1": {
+          "url": "https://www.nps.gov/grca/images/IMG_9749.jpg?maxwidth=1300&maxheight=1300&autorotate=false",
+          "caption": "Both amateur and professional photographers flock to Grand Canyon for its spectacular views."
+        },
+        "Image 2": {
+          "url": "https://www.nps.gov/grca/images/6924462211_6c362edda9_o.jpg?maxwidth=1300&maxheight=1300&autorotate=false",
+          "caption": "Bright Angel Trail at sundown. The hour following sunrise or leading up to sunset can impart a soft, even glow on the landscape."
+        },
+        "Image 3": {
+          "url": "http://nps.gov/grca/planyourvisit/images/Desert-View_3_4.jpg?maxwidth=650&autorotate=false&quality=78&format=webp",
+          "caption": "Desert view from Grand Canyon National Park"
+        },
+        "Image 4": {
+          "url": "https://www.nps.gov/grca/planyourvisit/images/North-Rim-Scenic-Drive_3.jpg?maxwidth=650&autorotate=false&quality=78&format=webp",
+          "caption": "Aerial view of Grand Canyon National Park"
+        },
+        "Image 5": {
+          "url": "https://www.nps.gov/grca/images/6044055637_b2e0c01e69_b_1.jpg?maxwidth=650&autorotate=false&quality=78&format=webp",
+          "caption": "Mather Point view illuminated during a stormy sunset."
+        },
+        "Image 6": {
+          "url": "https://live.staticflickr.com/5178/5571738101_4943d98a5a_b.jpg",
+          "caption": "Lodging at Grand Canyon National Park"
+        }
+      }
+    },
+    {
+      "name": "Redwood National Parks",
+      "id": "redWood",
+      "location": "California",
+      "description": "Redwood’s landscapes span from open prairies and oak woodlands to pristine rivers and untamed coastline. This ancient home has supported people for thousands of year",
+      "link": "https://www.nps.gov/redw/index.htm",
+      "images": {
+        "Image 1": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/0213241f-155d-4519-3ee0-cc60c7ff63f6/proxy/hires?",
+          "caption": "Cow parsnip, False Klamath Cove, and U.S. 101 as seen from Yurok Loop Trail."
+        },
+        "Image 2": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/02838eaf-155d-4519-3e4f-ddb5abac8413/proxy/hires?",
+          "caption": "Snail in Redwood"
+        },
+        "Image 3": {
+          "url": "https://www.nps.gov/common/uploads/grid_builder/redw/crop16_9/6D932F04-0D9D-F6B6-2D2756B08DD508A9.jpeg?width=1300&quality=90&mode=crop",
+          "caption": "A view of the Redwood National Park"
+        },
+        "Image 4": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/02675190-155d-4519-3e43-8edd5512869c/proxy/hires?",
+          "caption": "Fog in an ancient coast redwood (Sequoia sempervirens) forest."
+        },
+        "Image 5": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/02b046eb-155d-4519-3ea8-24cb9562b314/proxy/hires?",
+          "caption": "Roosevelt elk grazing."
+        },
+        "Image 6": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/021c341f-155d-4519-3e5f-a6d1f308a944/proxy/hires?",
+          "caption": "Big leaf maple on Simpson Reed trail."
+        }
+      }
+    },
+
+    {
+      "name": "Yellowstone National Park",
+      "id": "yellowstone",
+      "location": "Wyoming",
+      "description": "Yellowstone National Park is a natural wonderland that offers breathtaking views, geysers, hot springs, and wildlife. It's a must-visit for nature lovers.",
+      "link": "https://www.nps.gov/yell/index.htm",
+      "images": {
+        "Image 4": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/AB2DCCDF-460C-4C26-A050-96B68672CF7B/proxy/hires",
+          "caption": "Vistors at Yellowstone"
+        },
+        "Image 2": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/956305c9-155d-451f-6767-aeef0cd4b3c2/proxy/lores",
+          "caption": "A view of Giant Geyser at Yellowstone"
+        },
+        "Image 3": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/8D1D4588-68F3-4417-A1CA-F678D2E8443D/proxy/hires",
+          "caption": "Boating at Yellowstone"
+        },
+        "Image 1": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/dcfe68c8-1dd8-b71b-0b04-0ef65123c606/proxy/hires?",
+          "caption": "Morning Glory Pool, Upper Geyser Basin."
+        },
+        "Image 5": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/ba5d5e53-064b-4d14-a53a-15ac6f887c4c/proxy/hires?",
+          "caption": "Huckleberry Ridge Tuff at Forces of the Northern Range Trail."
+        },
+        "Image 6": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/01ff4552-1dd8-b71b-0b10-b538dbd6d66f/proxy/hires?",
+          "caption": "Double rainbow seen from Lower Mammoth."
+        }
+      }
+    },
+    {
+      "name": "Yosemite National Park",
+      "id": "yosemite",
+      "location": "California",
+      "description": "Yosemite National Park is known for its towering waterfalls, giant sequoias, and vast wilderness areas. It's a popular destination for hiking, climbing, and nature photography.",
+      "link": "https://www.nps.gov/yose/planyourvisit/index.htm",
+      "images": {
+        "Image 1": {
+          "url": "https://www.nps.gov/common/uploads/grid_builder/yose/crop16_9/2D3D1C45-0AF3-1732-F34387E24619556A.jpg?width=1300&quality=90&mode=crop",
+          "caption": "A view of the Yosemite"
+        },
+        "Image 2": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/80c283c4-155d-4519-3ea7-8fe5e6df1b89/proxy/lores",
+          "caption": "A wildflower at Yosemite"
+        },
+        "Image 3": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/b145fff5-155d-4519-3ee7-40165c8f20f2/proxy/lores",
+          "caption": "Yosemite's first rangers"
+        },
+        "Image 4": {
+          "url": "https://npgallery.nps.gov/YOSE/GetAsset/6131487e-0606-41ee-8cb0-5e069d9ab9f9/proxyhires?",
+          "caption": "Satellite Photo of Yosemite National Park"
+        },
+        "Image 5": {
+          "url": "https://npgallery.nps.gov/YOSE/GetAsset/594f5345524f434b2022020150614011/proxyhires?",
+          "caption": "2015 Cloud's Rest rock fall."
+        },
+        "Image 6": {
+          "url": "https://npgallery.nps.gov/YOSE/GetAsset/594f5345524f434b2022020040813011/proxyhires?",
+          "caption": "2004 Royal Arches rock fall."
+        }
+      }
+    },
+    {
+      "name": "Zion National Park",
+      "id": "zion",
+      "location": "Utah",
+      "description": "Zion National Park is known for its towering waterfalls, giant sequoias, and vast wilderness areas. It's a popular destination for hiking, climbing, and nature photography.",
+      "link": "https://www.nps.gov/zion/index.htm",
+      "images": {
+        "Image 1": {
+          "url": "https://www.nps.gov/common/uploads/grid_builder/zion/crop16_9/3F936BF4-1DD8-B71B-0B335232937DB252.jpg?width=640&quality=90&mode=crop",
+          "caption": "A view of the Zion National Park"
+        },
+        "Image 2": {
+          "url": "https://www.nps.gov/common/uploads/grid_builder/zion/crop16_9/38F1FD58-1DD8-B71B-0B29CF2300385E11.jpg?width=640&quality=90&mode=crop",
+          "caption": "Camping at Zion"
+        },
+        "Image 3": {
+          "url": "https://www.nps.gov/common/uploads/grid_builder/zion/crop16_9/94196F00-941F-51E5-8338B290BACD4ECE.jpg?width=1300&quality=90&mode=crop",
+          "caption": "Zion in the winter"
+        },
+        "Image 4": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/9863d408-155d-451f-67df-89cc4a0175b1/proxy/hires?",
+          "caption": "The Temples and Towers of the Virgin at sunrise is one of Zion's most famous views."
+        },
+        "Image 5": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/a584a186-aba1-4a56-a64e-f20b247124fb/proxy/hires?",
+          "caption": "Postcard of men in tunnel window. Donated by Neal Bullington. Museum Catalog."
+        },
+        "Image 6": {
+          "url": "https://www.nps.gov/npgallery/GetAsset/9879486e-155d-451f-672f-36bf86c61339/proxy/hires?",
+          "caption": "Over 2000 feet above the canyon floor, Observation Point offers a stellar view of Angels Landing and Zion Canyon."
+        }
+      }
+    }
+  ],
+  "about": [
+    {
+      "Course": "Construction of User Interfaces, Spring 2025",
+      "Date": "March 2025",
+      "students": [
+        {
+          "name": "Cai Chen",
+          "email": "achen23@iastate.edu"
+        },
+        {
+          "name": "Megan Chng",
+          "email": "mkchng@iastate.edu"
+        }
+      ]
+    }
+  ]
+}
